@@ -158,6 +158,73 @@ body {
     box-sizing: border-box;
     
 }
+.donate{
+    text-align: center;
+}
+.donate-button{
+    display: flex;
+    justify-content: space-evenly;
 
+}
+.tk100{
+    color: rgba(14, 14, 14, 0.8);
+    margin: 12px 0px;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.tk200{
+    color: rgba(14, 14, 14, 0.8);
+    background: rgb(198, 228, 214);
+    margin: 12px 0px;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
 
+.tk500{
+    color: rgba(14, 14, 14, 0.8);
+    margin: 12px 0px;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.tk1000{
+    color: rgba(14, 14, 14, 0.8);
+    margin: 12px 0px;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+        
+}
 
+.extra{
+    display: block;
+    background-color: aliceblue;
+    padding: 10px 20px;
+    text-align: center;
+} 
+.done{
+    margin: 10px;
+    text-align: center;
+}
+
+.hov:hover{
+    
+        background-color:blueviolet;
+        cursor: pointer;
+}
+.media{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding:10px;
+}
